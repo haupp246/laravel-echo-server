@@ -4,7 +4,7 @@
     "module": "commonjs",
     "moduleResolution": "node",
     "noImplicitAny": false,
-    "outDir": "./dist",
+    "outDir": "./dist/**",
     "pretty": true,
     "preserveConstEnums": true,
     "removeComments": true,
